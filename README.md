@@ -1,4 +1,4 @@
-# Data-Science
+# Data Science Journey
 This repository is for the purpose of learning Data Science
 
 ## Courses
